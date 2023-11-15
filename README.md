@@ -1,10 +1,10 @@
-# Exercise 5.5—Networked Game
+# Exercise 5.5—Networking
 
 Exercise for MSCH-C220
 
 This exercise is a chance to play with Godot's networking capability in a 3D context. We will be extending a simple first-person-controlled character and allow two of these characters to be controlled over the network (localhost).
 
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-5-5-Networked-Game. Edit the LICENSE and replace BL-MSCH-C220 with your full name. Commit your changes.
+Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-5-5-Networking. Edit the LICENSE and replace BL-MSCH-C220 with your full name. Commit your changes.
 
 Clone the repository to a Local Path on your computer.
 
@@ -136,11 +136,11 @@ Test your project. *In the Debug Menu, you can choose to Run Multiple Instances-
 
 Quit Godot. In GitHub desktop, add a summary message, commit your changes and push them back to GitHub. If you return to and refresh your GitHub repository page, you should now see your updated files with the time when they were changed.
 
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-5-5-Networked-Game) on Canvas.
+Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-5-5-Networking) on Canvas.
 
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
-# Exercise 5.5-Networked Game
+# Exercise 5.5-Networking
 
 Exercise for MSCH-C220
 
